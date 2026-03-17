@@ -16,4 +16,5 @@ QuickCart is a simple React shopping app built using Vite.
 
 ## How to Run
 npm install
+
 npm run dev
