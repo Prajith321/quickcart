@@ -1,20 +1,19 @@
-# QuickCart - Part 1
+# QuickCart
 
-## Overview
-QuickCart is a lightweight shopping preview app built using React and Vite.
+QuickCart is a simple React shopping app built using Vite.
 
 ## Features
-- Displays 8 products in a responsive grid
-- Uses reusable components (Header, ProductList, ProductCard)
+- Header component
+- Product listing using ProductList
+- Reusable ProductCard component
 - Dynamic rendering using map()
-- Clean UI with CSS Grid
+- Responsive grid layout
 
-## Concepts Used
-- React Components
-- Props
-- JSX
-- Array.map()
+## Tech Used
+- React
+- Vite
+- CSS
 
-## Run Project
+## How to Run
 npm install
 npm run dev
