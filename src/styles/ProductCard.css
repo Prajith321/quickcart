@@ -1,0 +1,11 @@
+.card {
+  background: white;
+  padding: 15px;
+  border-radius: 10px;
+}
+.card img {
+  width: 100%;
+}
+.price {
+  color: green;
+}
